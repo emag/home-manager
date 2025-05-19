@@ -5,7 +5,7 @@
     ./git.nix
     ./neovim.nix
     ./starship.nix
-    ./vscode.nix
+    #./vscode.nix WSL 上では管理しない
     ./zsh.nix
   ];
 
